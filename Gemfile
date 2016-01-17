@@ -39,3 +39,5 @@ gem 'semantic-ui-sass', github: 'doabit/semantic-ui-sass', branch: 'v1.0beta'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+gem 'rails_12factor', group: :production
